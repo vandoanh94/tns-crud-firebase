@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "190980898930",
+    "firebase_url": "https://tns-crud.firebaseio.com",
+    "project_id": "tns-crud",
+    "storage_bucket": "tns-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190980898930:android:197fc250e16ae5cd",
+        "android_client_info": {
+          "package_name": "org.nativescript.mytnscrudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190980898930-nurip2032tfut7daibs60828tid2audb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-XSPLSykpc10-LsOUXtQb61zS67X17ac"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
