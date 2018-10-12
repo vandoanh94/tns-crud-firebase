@@ -3,3 +3,4 @@ node_modules/
 src/app/**/*.js
 src/app/*.js
 src/main.js
+.vscode/
